@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/DotsBoxes" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="dRvMtydOAh.DotsBoxes" package="dRvMtydOAh" required_version="2.3"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png" height="117" width="117"/>
+    <name>Dots &amp; Boxes</name>
+    <tizen:profile name="mobile"/>
+</widget>
